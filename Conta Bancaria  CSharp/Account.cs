@@ -29,6 +29,13 @@ class Account {
         return " Holder: " + _holder 
             + "\n Account number: " + Number 
             + "\n Digit: " + Digit
-            + "\n Banlace R$ " + Balance.ToString("F2",CultureInfo.InvariantCulture);
+            + "\n Banlace R$ " + Balance.ToString("F2",CultureInfo.InvariantCulture)
+            +"\n";
+    }
+    public void ToWithdraw(double amount) {
+        this.Balance -= amount;
+    }
+    public void Deposit (double amount) {
+        this.Balance += amount; 
     }
 }

@@ -1,0 +1,15 @@
+D:\WorkSpace-Projects-Visual-Studio\Conta Bancaria  CSharp\Conta Bancaria  CSharp\bin\Debug\net6.0\Conta Bancaria  CSharp.exe
+D:\WorkSpace-Projects-Visual-Studio\Conta Bancaria  CSharp\Conta Bancaria  CSharp\bin\Debug\net6.0\Conta Bancaria  CSharp.deps.json
+D:\WorkSpace-Projects-Visual-Studio\Conta Bancaria  CSharp\Conta Bancaria  CSharp\bin\Debug\net6.0\Conta Bancaria  CSharp.runtimeconfig.json
+D:\WorkSpace-Projects-Visual-Studio\Conta Bancaria  CSharp\Conta Bancaria  CSharp\bin\Debug\net6.0\Conta Bancaria  CSharp.dll
+D:\WorkSpace-Projects-Visual-Studio\Conta Bancaria  CSharp\Conta Bancaria  CSharp\bin\Debug\net6.0\Conta Bancaria  CSharp.pdb
+D:\WorkSpace-Projects-Visual-Studio\Conta Bancaria  CSharp\Conta Bancaria  CSharp\obj\Debug\net6.0\Conta Bancaria  CSharp.csproj.AssemblyReference.cache
+D:\WorkSpace-Projects-Visual-Studio\Conta Bancaria  CSharp\Conta Bancaria  CSharp\obj\Debug\net6.0\Conta Bancaria  CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace-Projects-Visual-Studio\Conta Bancaria  CSharp\Conta Bancaria  CSharp\obj\Debug\net6.0\Conta Bancaria  CSharp.AssemblyInfoInputs.cache
+D:\WorkSpace-Projects-Visual-Studio\Conta Bancaria  CSharp\Conta Bancaria  CSharp\obj\Debug\net6.0\Conta Bancaria  CSharp.AssemblyInfo.cs
+D:\WorkSpace-Projects-Visual-Studio\Conta Bancaria  CSharp\Conta Bancaria  CSharp\obj\Debug\net6.0\Conta Bancaria  CSharp.csproj.CoreCompileInputs.cache
+D:\WorkSpace-Projects-Visual-Studio\Conta Bancaria  CSharp\Conta Bancaria  CSharp\obj\Debug\net6.0\Conta Bancaria  CSharp.dll
+D:\WorkSpace-Projects-Visual-Studio\Conta Bancaria  CSharp\Conta Bancaria  CSharp\obj\Debug\net6.0\refint\Conta Bancaria  CSharp.dll
+D:\WorkSpace-Projects-Visual-Studio\Conta Bancaria  CSharp\Conta Bancaria  CSharp\obj\Debug\net6.0\Conta Bancaria  CSharp.pdb
+D:\WorkSpace-Projects-Visual-Studio\Conta Bancaria  CSharp\Conta Bancaria  CSharp\obj\Debug\net6.0\Conta Bancaria  CSharp.genruntimeconfig.cache
+D:\WorkSpace-Projects-Visual-Studio\Conta Bancaria  CSharp\Conta Bancaria  CSharp\obj\Debug\net6.0\ref\Conta Bancaria  CSharp.dll
