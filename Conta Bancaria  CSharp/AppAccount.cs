@@ -10,6 +10,9 @@ namespace Conta_Bancaria_CSharp {
             Console.WriteLine(c.ToString());
             c.Deposit(500.0);
             Console.WriteLine(c);
+
+            c.ToWithdraw(100.0);
+            Console.WriteLine(c);
         }
 
     }

@@ -29,13 +29,26 @@ class Account {
         return " Holder: " + _holder 
             + "\n Account number: " + Number 
             + "\n Digit: " + Digit
-            + "\n Banlace R$ " + Balance.ToString("F2",CultureInfo.InvariantCulture)
+            + "\n Banlace $ " + Balance.ToString("F2",CultureInfo.InvariantCulture)
             +"\n";
     }
     public void ToWithdraw(double amount) {
-        this.Balance -= amount;
+            double taxa = 5.0;
+        if (amount > 0) {
+            Console.WriteLine(" Withdraw Taxa $ " + taxa.ToString("F2", CultureInfo.InvariantCulture));
+            this.Balance -= (amount+ taxa);
+        }
+        else {
+            this.Balance = 0;
+        }
     }
     public void Deposit (double amount) {
-        this.Balance += amount; 
+        if(amount > 0) {
+
+        this.Balance += amount;
+        }
+        else {
+            this.Balance = 0;
+        }
     }
 }
